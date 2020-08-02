@@ -2,7 +2,7 @@ Users interested in distributing custom cards for the OCTGN Transformers package
 
 In case it helps find the correct files to replace, here is a list of card names with their correspond GUIDs (identifentication values):
 
-guid	card_name	  
+<pre>guid	card_name	  
 5c57cea4-b909-40e6-9cc5-e738d09da61d	Orange Battle Card 1	  
 fa59f4ef-28db-4cd4-99d3-1ab7f24b3452	Orange Battle Card 2	  
 a7714f3c-0046-49f3-af41-e781386f87dc	Blue Battle Card 1	  
@@ -59,5 +59,4 @@ c1851be8-3e0b-491c-a835-bd6b42b504fa	Extra Large Character 3
 4f35b261-3b7a-4531-a824-5da303d3e0aa	Stratagem 7	  
 adeacaba-a20c-484c-bce3-0c499f63bbe3	Stratagem 8	  
 b6aa1149-930f-4d32-9948-b0457e3927c9	Stratagem 9	  
-08018652-8fcd-4456-aeb7-196cd3326b60	Stratagem 10	  
-
+08018652-8fcd-4456-aeb7-196cd3326b60	Stratagem 10	  </pre>
