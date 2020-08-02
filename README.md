@@ -60,3 +60,4 @@ c1851be8-3e0b-491c-a835-bd6b42b504fa	Extra Large Character 3
 adeacaba-a20c-484c-bce3-0c499f63bbe3	Stratagem 8	  
 b6aa1149-930f-4d32-9948-b0457e3927c9	Stratagem 9	  
 08018652-8fcd-4456-aeb7-196cd3326b60	Stratagem 10	  
+
