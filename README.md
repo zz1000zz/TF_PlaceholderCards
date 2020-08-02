@@ -1,4 +1,4 @@
-Users interested in distributing custom cards for the OCTGN Transformers package can download this "template" and replace images in it with their own.  Once they've done so, they will want to zip the entire thing up and rename it with a .o8c extension.  This will create an "image pack" which can be sent to other users to install within OCTGN to get those custom cards.
+Users interested in distributing custom cards for the OCTGN Transformers package can download this "template" and replace images in it with their own.  Once they've done so, they will want to zip the game folder here (f44befce-4d6d-4fb9-a286-9585f36aece9/) thing up and rename it with a .o8c extension.  This will create an "image pack" which can be sent to other users to install within OCTGN to get those custom cards.
 
 In case it helps find the correct files to replace, here is a list of card names with their correspond GUIDs (identifentication values):
 
